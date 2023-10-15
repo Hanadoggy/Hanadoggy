@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanadoggy&show_icons=true)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanadoggy&show_icons=true)
 
 - 💬 Contact
-<a href="https://www.linkedin.com/in/익현-배-257457288/"><img src="linkedin"/></a>
+<a href="https://www.linkedin.com/in/익현-배-257457288/"><img src="https://img.shields.io/badge/linkedin-#0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
 - 🔭 Skills
-<img src="https://img.shields.io/badge/LinkedIn-#0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring-#6DB33F?style=flat-square&logo=LinkedIn&logoColor=white"/>
